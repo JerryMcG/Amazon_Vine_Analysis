@@ -10,6 +10,7 @@ We are analyzing Outdoors products and focusing on reviews. Through this analysi
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 * 5* Vine Reviews: 55
 * 5* NonVine Reviews: 19723
+
 These reviews were filtered using Vine equal to Y/N
 
 <img src = 'VineY.jpg'/> <img src='VineN.jpg'>
